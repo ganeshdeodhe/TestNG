@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78" started-at="2014-09-16T17:52:19Z" finished-at="2014-09-16T17:52:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78" started-at="2014-09-16T17:52:19Z" finished-at="2014-09-16T17:52:19Z">
+      <class name="testngcode.DataProvider">
+        <test-method status="PASS" signature="PrintMovie(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngcode.DataProvider@13fc5f6]" name="PrintMovie" duration-ms="31" started-at="2014-09-16T17:52:19Z" data-provider="movieList" finished-at="2014-09-16T17:52:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Robot]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ranjnikanth]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Ashwarya]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintMovie -->
+        <test-method status="PASS" signature="PrintMovie(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngcode.DataProvider@13fc5f6]" name="PrintMovie" duration-ms="0" started-at="2014-09-16T17:52:19Z" data-provider="movieList" finished-at="2014-09-16T17:52:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Welcome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Akshay K]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kaitrina]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintMovie -->
+        <test-method status="PASS" signature="PrintMovie(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testngcode.DataProvider@13fc5f6]" name="PrintMovie" duration-ms="0" started-at="2014-09-16T17:52:19Z" data-provider="movieList" finished-at="2014-09-16T17:52:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[DDLJ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Ajay D]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Kajol]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PrintMovie -->
+      </class> <!-- testngcode.DataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="mysuite" parallel="false">
+<test name="Test1">
+	<classes>
+		<class name="testngcode.GrpCls"/>
+		<class name="testngcode.SmokeTest"</class>
+		<groups>
+			<run>
+				<include name="g1"/>
+			</run>
+		</groups>
+	</classes>
+</test>
+</suite>
